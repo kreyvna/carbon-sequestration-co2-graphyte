@@ -13,7 +13,7 @@ This project analyzes atmospheric CO₂ trends using NOAA’s Mauna Loa Observat
 - Demonstrate how data supports the permanence and traceability of CO₂ removal
 
 ## Project Structure
-<pre>'''
+<pre>
 carbon-sequestration-co2-analysis/
 ├── data/
 │   ├── raw/                     # Original NOAA data file
@@ -23,7 +23,7 @@ carbon-sequestration-co2-analysis/
 │   └── sequestration_analysis.ipynb
 ├── README.md
 └── requirements.txt
-''' </pre>pre>
+ </pre>
 
 ## Data Details
 
