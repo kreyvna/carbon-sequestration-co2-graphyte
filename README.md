@@ -14,7 +14,7 @@ This project analyzes atmospheric CO₂ trends using NOAA’s Mauna Loa Observat
 
 ## Project Structure
 <pre>
-carbon-sequestration-co2-analysis/
+carbon-sequestration-co2-graphyte/
 ├── data/
 │   ├── raw/                     # Original NOAA data file
 │   └── processed/               # Cleaned dataset with flags
